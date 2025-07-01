@@ -1,0 +1,58 @@
+Troubleshooting Guide: I Can’t Find My Liked Posts on Instagram (Android)
+
+Problem Description
+
+I can’t find liked posts on Instagram after following the instructions on the mobile app.
+
+Possible Causes and Solution
+
+Cause 1: The Instagram app is not updated
+
+Solution: 
+
+
+
+1. Go to **Play Store**. 
+2. **Tap your** **profile **on the top right corner.
+3. **Tap **“Manage apps & device.”
+4. **Tap **“Updates available.”
+5. **Find **Instagram & **tap **“Update (if available).”
+
+    *Expected Result: Once updated, you should be able to access your liked posts.*
+
+
+Cause 2: You are part of the Instagram beta tester program.
+
+Solution: Report a technical problem
+
+
+
+1. **Tap the three-line icon** on the top right corner of the Instagram app.
+2. Scroll down and tap“**Help**.”
+3. **Tap **“Report a problem.”
+4. **Tap **“Report problem without shaking.”
+5. **Tap **“Don’t include and continue.”
+6. Briefly **explain **the problem and **select **“Send.”
+
+    *Note: As a beta tester, you may encounter experimental features or bugs. Reporting the issue helps Instagram address it.*
+
+
+Cause 3: Your application file has an error
+
+Solution: 
+
+
+
+1. **Go to **“Manage apps & device” as described in Cause 1.
+2. **Tap **“Manage.”
+3. **Select **Instagram and **tap **“Uninstall.”
+4. **Reinstall **the app once it’s uninstalled from the Play Store.
+
+    *Expected Result: A fresh installation may resolve file errors and restore missing features.*
+
+
+Additional Tip
+
+
+
+* Ensure your Android OS is up to date by going to “Settings > System > System update.”
